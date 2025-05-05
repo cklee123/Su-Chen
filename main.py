@@ -14,8 +14,8 @@ plt.rcParams['font.sans-serif'] = ['Noto Sans CJK JP']
 plt.rcParams['axes.unicode_minus'] = False
 
 API_TOKEN = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wNS0wNCAwMToxMjoxMCIsInVzZXJfaWQiOiJjaGVuZ2thbmdsZWUiLCJpcCI6IjM5LjE0LjE3Ljg2In0.4Gc1eRyLwQrvRcDvlZRKCbNe-ZBrWhl3VrWgRmFU2_k'
-BOT_TOKEN = '7223378639:AAHTpIAhz1TSlV_aKpITjlOq897aruvgwSc'
-CHAT_ID = '7659097536'
+BOT_TOKEN = '8092924344:AAGjrCpKn-4f-38ldL8XCTXXPl6EdPw6Jzw'
+CHAT_ID = '8115508633'
 
 stocks = {
     '0050': '元大台灣50',
