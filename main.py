@@ -20,6 +20,8 @@ CHAT_ID = '8115508633'
 stocks = {
     '0050': '元大台灣50',
     '1102': '亞泥',
+    '2303': '聯電',
+    '2317': '鴻海',
 }
 
 def send_telegram_message(message):
